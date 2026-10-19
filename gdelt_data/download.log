@@ -1,0 +1,206 @@
+2026-10-19 05:16:01,808 INFO    Downloading 181 file(s) to /Users/harish/DEV/Data_wizards/gdelt_data with 4 worker(s)
+2026-10-19 05:16:02,620 INFO    OK     20250104 (4.6 MB, attempt 1)
+2026-10-19 05:16:02,630 INFO    OK     20250101 (4.4 MB, attempt 1)
+2026-10-19 05:16:02,634 INFO    OK     20250102 (5.9 MB, attempt 1)
+2026-10-19 05:16:02,646 INFO    OK     20250103 (6.9 MB, attempt 1)
+2026-10-19 05:16:03,232 INFO    OK     20250105 (3.9 MB, attempt 1)
+2026-10-19 05:16:03,287 INFO    OK     20250106 (7.0 MB, attempt 1)
+2026-10-19 05:16:03,295 INFO    OK     20250107 (8.4 MB, attempt 1)
+2026-10-19 05:16:03,378 INFO    OK     20250108 (8.9 MB, attempt 1)
+2026-10-19 05:16:03,947 INFO    OK     20250110 (8.4 MB, attempt 1)
+2026-10-19 05:16:03,956 INFO    OK     20250112 (4.2 MB, attempt 1)
+2026-10-19 05:16:03,987 INFO    OK     20250111 (5.1 MB, attempt 1)
+2026-10-19 05:16:04,081 INFO    OK     20250109 (9.0 MB, attempt 1)
+2026-10-19 05:16:04,721 INFO    OK     20250113 (7.7 MB, attempt 1)
+2026-10-19 05:16:04,744 INFO    OK     20250115 (9.6 MB, attempt 1)
+2026-10-19 05:16:04,779 INFO    OK     20250114 (8.8 MB, attempt 1)
+2026-10-19 05:16:04,946 INFO    OK     20250116 (9.7 MB, attempt 1)
+2026-10-19 05:16:05,347 INFO    OK     20250118 (5.6 MB, attempt 1)
+2026-10-19 05:16:05,377 INFO    OK     20250119 (4.7 MB, attempt 1)
+2026-10-19 05:16:05,408 INFO    OK     20250117 (9.3 MB, attempt 1)
+2026-10-19 05:16:05,569 INFO    OK     20250120 (7.7 MB, attempt 1)
+2026-10-19 05:16:06,074 INFO    OK     20250121 (9.5 MB, attempt 1)
+2026-10-19 05:16:06,110 INFO    OK     20250122 (9.9 MB, attempt 1)
+2026-10-19 05:16:06,127 INFO    OK     20250123 (9.7 MB, attempt 1)
+2026-10-19 05:16:06,331 INFO    OK     20250124 (9.2 MB, attempt 1)
+2026-10-19 05:16:06,724 INFO    OK     20250126 (4.8 MB, attempt 1)
+2026-10-19 05:16:06,746 INFO    OK     20250125 (5.9 MB, attempt 1)
+2026-10-19 05:16:06,855 INFO    OK     20250127 (8.2 MB, attempt 1)
+2026-10-19 05:16:07,046 INFO    OK     20250128 (9.3 MB, attempt 1)
+2026-10-19 05:16:07,350 INFO    OK     20250129 (9.4 MB, attempt 1)
+2026-10-19 05:16:07,436 INFO    OK     20250130 (9.0 MB, attempt 1)
+2026-10-19 05:16:07,540 INFO    OK     20250131 (8.4 MB, attempt 1)
+2026-10-19 05:16:07,661 INFO    OK     20250201 (5.5 MB, attempt 1)
+2026-10-19 05:16:07,980 INFO    OK     20250202 (4.4 MB, attempt 1)
+2026-10-19 05:16:08,198 INFO    OK     20250203 (7.8 MB, attempt 1)
+2026-10-19 05:16:08,406 INFO    OK     20250204 (9.3 MB, attempt 1)
+2026-10-19 05:16:08,409 INFO    OK     20250205 (10.0 MB, attempt 1)
+2026-10-19 05:16:08,696 INFO    OK     20250206 (9.7 MB, attempt 1)
+2026-10-19 05:16:08,958 INFO    OK     20250207 (8.7 MB, attempt 1)
+2026-10-19 05:16:08,990 INFO    OK     20250209 (4.2 MB, attempt 1)
+2026-10-19 05:16:09,081 INFO    OK     20250208 (5.5 MB, attempt 1)
+2026-10-19 05:16:09,376 INFO    OK     20250210 (7.4 MB, attempt 1)
+2026-10-19 05:16:09,696 INFO    OK     20250211 (9.0 MB, attempt 1)
+2026-10-19 05:16:09,731 INFO    OK     20250212 (9.6 MB, attempt 1)
+2026-10-19 05:16:09,764 INFO    OK     20250213 (9.7 MB, attempt 1)
+2026-10-19 05:16:10,116 INFO    OK     20250214 (9.0 MB, attempt 1)
+2026-10-19 05:16:10,330 INFO    OK     20250215 (5.6 MB, attempt 1)
+2026-10-19 05:16:10,346 INFO    OK     20250216 (4.8 MB, attempt 1)
+2026-10-19 05:16:10,415 INFO    OK     20250217 (7.7 MB, attempt 1)
+2026-10-19 05:16:10,876 INFO    OK     20250218 (9.1 MB, attempt 1)
+2026-10-19 05:16:11,080 INFO    OK     20250221 (8.9 MB, attempt 1)
+2026-10-19 05:16:11,098 INFO    OK     20250219 (9.4 MB, attempt 1)
+2026-10-19 05:16:11,129 INFO    OK     20250220 (9.4 MB, attempt 1)
+2026-10-19 05:16:11,546 INFO    OK     20250222 (5.5 MB, attempt 1)
+2026-10-19 05:16:11,693 INFO    OK     20250223 (4.5 MB, attempt 1)
+2026-10-19 05:16:11,745 INFO    OK     20250224 (8.3 MB, attempt 1)
+2026-10-19 05:16:11,831 INFO    OK     20250225 (9.5 MB, attempt 1)
+2026-10-19 05:16:12,518 INFO    OK     20250226 (9.4 MB, attempt 1)
+2026-10-19 05:16:12,531 INFO    OK     20250228 (9.4 MB, attempt 1)
+2026-10-19 05:16:12,533 INFO    OK     20250227 (9.6 MB, attempt 1)
+2026-10-19 05:16:13,163 INFO    OK     20250302 (4.6 MB, attempt 1)
+2026-10-19 05:16:13,211 INFO    OK     20250303 (7.8 MB, attempt 1)
+2026-10-19 05:16:13,226 INFO    OK     20250304 (9.5 MB, attempt 1)
+2026-10-19 05:16:13,882 INFO    OK     20250305 (9.8 MB, attempt 1)
+2026-10-19 05:16:13,904 INFO    OK     20250307 (9.1 MB, attempt 1)
+2026-10-19 05:16:13,937 INFO    OK     20250306 (9.6 MB, attempt 1)
+2026-10-19 05:16:14,141 INFO    OK     20250301 (5.9 MB, attempt 1)
+2026-10-19 05:16:14,448 INFO    OK     20250308 (5.5 MB, attempt 1)
+2026-10-19 05:16:14,609 INFO    OK     20250309 (4.6 MB, attempt 1)
+2026-10-19 05:16:14,635 INFO    OK     20250310 (8.2 MB, attempt 1)
+2026-10-19 05:16:14,784 INFO    OK     20250311 (9.5 MB, attempt 1)
+2026-10-19 05:16:15,215 INFO    OK     20250312 (9.9 MB, attempt 1)
+2026-10-19 05:16:15,308 INFO    OK     20250313 (9.7 MB, attempt 1)
+2026-10-19 05:16:15,447 INFO    OK     20250314 (9.0 MB, attempt 1)
+2026-10-19 05:16:15,451 INFO    OK     20250315 (5.4 MB, attempt 1)
+2026-10-19 05:16:15,806 INFO    OK     20250316 (4.5 MB, attempt 1)
+2026-10-19 05:16:15,963 INFO    OK     20250317 (8.5 MB, attempt 1)
+2026-10-19 05:16:16,110 INFO    OK     20250318 (9.8 MB, attempt 1)
+2026-10-19 05:16:16,153 INFO    OK     20250319 (9.8 MB, attempt 1)
+2026-10-19 05:16:16,604 INFO    OK     20250320 (9.6 MB, attempt 1)
+2026-10-19 05:16:16,715 INFO    OK     20250321 (9.1 MB, attempt 1)
+2026-10-19 05:16:16,716 INFO    OK     20250322 (5.4 MB, attempt 1)
+2026-10-19 05:16:16,725 INFO    OK     20250323 (4.4 MB, attempt 1)
+2026-10-19 05:16:17,237 INFO    OK     20250324 (8.4 MB, attempt 1)
+2026-10-19 05:16:17,376 INFO    OK     20250327 (9.8 MB, attempt 1)
+2026-10-19 05:16:17,472 INFO    OK     20250326 (9.8 MB, attempt 1)
+2026-10-19 05:16:17,481 INFO    OK     20250325 (9.5 MB, attempt 1)
+2026-10-19 05:16:18,010 INFO    OK     20250329 (5.5 MB, attempt 1)
+2026-10-19 05:16:18,032 INFO    OK     20250328 (9.5 MB, attempt 1)
+2026-10-19 05:16:18,150 INFO    OK     20250331 (7.5 MB, attempt 1)
+2026-10-19 05:16:18,181 INFO    OK     20250330 (4.5 MB, attempt 1)
+2026-10-19 05:16:18,724 INFO    OK     20250401 (8.8 MB, attempt 1)
+2026-10-19 05:16:18,735 INFO    OK     20250402 (9.1 MB, attempt 1)
+2026-10-19 05:16:19,005 INFO    OK     20250403 (9.1 MB, attempt 1)
+2026-10-19 05:16:19,010 INFO    OK     20250404 (8.9 MB, attempt 1)
+2026-10-19 05:16:19,325 INFO    OK     20250405 (5.4 MB, attempt 1)
+2026-10-19 05:16:19,341 INFO    OK     20250406 (4.3 MB, attempt 1)
+2026-10-19 05:16:19,669 INFO    OK     20250407 (7.7 MB, attempt 1)
+2026-10-19 05:16:19,726 INFO    OK     20250408 (9.0 MB, attempt 1)
+2026-10-19 05:16:20,066 INFO    OK     20250410 (9.2 MB, attempt 1)
+2026-10-19 05:16:20,113 INFO    OK     20250409 (9.0 MB, attempt 1)
+2026-10-19 05:16:20,382 INFO    OK     20250411 (8.9 MB, attempt 1)
+2026-10-19 05:16:20,397 INFO    OK     20250412 (5.2 MB, attempt 1)
+2026-10-19 05:16:20,684 INFO    OK     20250413 (4.1 MB, attempt 1)
+2026-10-19 05:16:20,789 INFO    OK     20250414 (7.7 MB, attempt 1)
+2026-10-19 05:16:21,100 INFO    OK     20250415 (9.2 MB, attempt 1)
+2026-10-19 05:16:21,105 INFO    OK     20250416 (9.3 MB, attempt 1)
+2026-10-19 05:16:21,488 INFO    OK     20250418 (8.1 MB, attempt 1)
+2026-10-19 05:16:21,689 INFO    OK     20250420 (4.3 MB, attempt 1)
+2026-10-19 05:16:21,759 INFO    OK     20250419 (5.3 MB, attempt 1)
+2026-10-19 05:16:21,799 INFO    OK     20250417 (9.4 MB, attempt 1)
+2026-10-19 05:16:22,209 INFO    OK     20250421 (8.1 MB, attempt 1)
+2026-10-19 05:16:22,386 INFO    OK     20250422 (9.6 MB, attempt 1)
+2026-10-19 05:16:22,422 INFO    OK     20250423 (10.3 MB, attempt 1)
+2026-10-19 05:16:22,497 INFO    OK     20250424 (10.1 MB, attempt 1)
+2026-10-19 05:16:22,968 INFO    OK     20250425 (9.5 MB, attempt 1)
+2026-10-19 05:16:22,991 INFO    OK     20250426 (6.0 MB, attempt 1)
+2026-10-19 05:16:23,118 INFO    OK     20250427 (4.6 MB, attempt 1)
+2026-10-19 05:16:23,133 INFO    OK     20250428 (8.2 MB, attempt 1)
+2026-10-19 05:16:23,653 INFO    OK     20250429 (9.5 MB, attempt 1)
+2026-10-19 05:16:23,680 INFO    OK     20250430 (9.8 MB, attempt 1)
+2026-10-19 05:16:23,810 INFO    OK     20250501 (8.8 MB, attempt 1)
+2026-10-19 05:16:23,954 INFO    OK     20250502 (8.5 MB, attempt 1)
+2026-10-19 05:16:24,280 INFO    OK     20250503 (5.2 MB, attempt 1)
+2026-10-19 05:16:24,280 INFO    OK     20250504 (4.3 MB, attempt 1)
+2026-10-19 05:16:24,436 INFO    OK     20250505 (7.5 MB, attempt 1)
+2026-10-19 05:16:24,619 INFO    OK     20250506 (9.0 MB, attempt 1)
+2026-10-19 05:16:25,005 INFO    OK     20250508 (9.9 MB, attempt 1)
+2026-10-19 05:16:25,028 INFO    OK     20250507 (10.3 MB, attempt 1)
+2026-10-19 05:16:25,106 INFO    OK     20250509 (9.4 MB, attempt 1)
+2026-10-19 05:16:25,340 INFO    OK     20250510 (5.9 MB, attempt 1)
+2026-10-19 05:16:25,698 INFO    OK     20250512 (8.4 MB, attempt 1)
+2026-10-19 05:16:25,786 INFO    OK     20250513 (9.4 MB, attempt 1)
+2026-10-19 05:16:26,056 INFO    OK     20250514 (9.7 MB, attempt 1)
+2026-10-19 05:16:26,144 INFO    OK     20250511 (4.8 MB, attempt 1)
+2026-10-19 05:16:26,398 INFO    OK     20250515 (9.8 MB, attempt 1)
+2026-10-19 05:16:26,492 INFO    OK     20250516 (9.0 MB, attempt 1)
+2026-10-19 05:16:26,658 INFO    OK     20250517 (5.4 MB, attempt 1)
+2026-10-19 05:16:26,803 INFO    OK     20250518 (4.7 MB, attempt 1)
+2026-10-19 05:16:27,079 INFO    OK     20250519 (8.2 MB, attempt 1)
+2026-10-19 05:16:27,142 INFO    OK     20250520 (9.5 MB, attempt 1)
+2026-10-19 05:16:27,389 INFO    OK     20250521 (9.8 MB, attempt 1)
+2026-10-19 05:16:27,496 INFO    OK     20250522 (9.7 MB, attempt 1)
+2026-10-19 05:16:27,759 INFO    OK     20250524 (5.3 MB, attempt 1)
+2026-10-19 05:16:27,761 INFO    OK     20250523 (9.0 MB, attempt 1)
+2026-10-19 05:16:28,011 INFO    OK     20250525 (4.3 MB, attempt 1)
+2026-10-19 05:16:28,131 INFO    OK     20250526 (6.6 MB, attempt 1)
+2026-10-19 05:16:28,510 INFO    OK     20250527 (8.4 MB, attempt 1)
+2026-10-19 05:16:28,522 INFO    OK     20250528 (9.2 MB, attempt 1)
+2026-10-19 05:16:28,643 INFO    OK     20250529 (9.2 MB, attempt 1)
+2026-10-19 05:16:28,934 INFO    OK     20250530 (8.6 MB, attempt 1)
+2026-10-19 05:16:29,136 INFO    OK     20250601 (4.2 MB, attempt 1)
+2026-10-19 05:16:29,139 INFO    OK     20250531 (5.0 MB, attempt 1)
+2026-10-19 05:16:29,239 INFO    OK     20250602 (7.9 MB, attempt 1)
+2026-10-19 05:16:29,651 INFO    OK     20250603 (8.9 MB, attempt 1)
+2026-10-19 05:16:29,909 INFO    OK     20250605 (9.2 MB, attempt 1)
+2026-10-19 05:16:29,920 INFO    OK     20250604 (9.1 MB, attempt 1)
+2026-10-19 05:16:29,935 INFO    OK     20250606 (8.3 MB, attempt 1)
+2026-10-19 05:16:30,337 INFO    OK     20250607 (4.9 MB, attempt 1)
+2026-10-19 05:16:30,568 INFO    OK     20250608 (4.1 MB, attempt 1)
+2026-10-19 05:16:30,595 INFO    OK     20250610 (9.1 MB, attempt 1)
+2026-10-19 05:16:30,660 INFO    OK     20250609 (7.5 MB, attempt 1)
+2026-10-19 05:16:30,829 ERROR   MISSING 20250614 -> 404 (not published on server): https://data.gdeltproject.org/events/20250614.export.CSV.zip
+2026-10-19 05:16:31,009 ERROR   MISSING 20250615 -> 404 (not published on server): https://data.gdeltproject.org/events/20250615.export.CSV.zip
+2026-10-19 05:16:31,061 INFO    OK     20250611 (9.6 MB, attempt 1)
+2026-10-19 05:16:31,173 ERROR   MISSING 20250616 -> 404 (not published on server): https://data.gdeltproject.org/events/20250616.export.CSV.zip
+2026-10-19 05:16:31,228 ERROR   MISSING 20250617 -> 404 (not published on server): https://data.gdeltproject.org/events/20250617.export.CSV.zip
+2026-10-19 05:16:31,330 INFO    OK     20250612 (8.8 MB, attempt 1)
+2026-10-19 05:16:31,356 ERROR   MISSING 20250618 -> 404 (not published on server): https://data.gdeltproject.org/events/20250618.export.CSV.zip
+2026-10-19 05:16:31,362 INFO    OK     20250613 (9.4 MB, attempt 1)
+2026-10-19 05:16:31,406 ERROR   MISSING 20250619 -> 404 (not published on server): https://data.gdeltproject.org/events/20250619.export.CSV.zip
+2026-10-19 05:16:31,496 ERROR   MISSING 20250620 -> 404 (not published on server): https://data.gdeltproject.org/events/20250620.export.CSV.zip
+2026-10-19 05:16:31,526 ERROR   MISSING 20250621 -> 404 (not published on server): https://data.gdeltproject.org/events/20250621.export.CSV.zip
+2026-10-19 05:16:31,526 ERROR   MISSING 20250622 -> 404 (not published on server): https://data.gdeltproject.org/events/20250622.export.CSV.zip
+2026-10-19 05:16:31,561 ERROR   MISSING 20250623 -> 404 (not published on server): https://data.gdeltproject.org/events/20250623.export.CSV.zip
+2026-10-19 05:16:31,672 ERROR   MISSING 20250624 -> 404 (not published on server): https://data.gdeltproject.org/events/20250624.export.CSV.zip
+2026-10-19 05:16:31,701 ERROR   MISSING 20250626 -> 404 (not published on server): https://data.gdeltproject.org/events/20250626.export.CSV.zip
+2026-10-19 05:16:31,738 ERROR   MISSING 20250625 -> 404 (not published on server): https://data.gdeltproject.org/events/20250625.export.CSV.zip
+2026-10-19 05:16:31,773 ERROR   MISSING 20250627 -> 404 (not published on server): https://data.gdeltproject.org/events/20250627.export.CSV.zip
+2026-10-19 05:16:31,841 ERROR   MISSING 20250628 -> 404 (not published on server): https://data.gdeltproject.org/events/20250628.export.CSV.zip
+2026-10-19 05:16:31,905 ERROR   MISSING 20250629 -> 404 (not published on server): https://data.gdeltproject.org/events/20250629.export.CSV.zip
+2026-10-19 05:16:31,910 ERROR   MISSING 20250630 -> 404 (not published on server): https://data.gdeltproject.org/events/20250630.export.CSV.zip
+2026-10-19 05:16:31,912 INFO    ============================================================
+2026-10-19 05:16:31,912 INFO    SUMMARY: 164 downloaded, 0 skipped (already had), 17 missing on server, 0 failed
+2026-10-19 05:16:31,912 INFO    Missing (404) dates: 20250614, 20250615, 20250616, 20250617, 20250618, 20250619, 20250620, 20250621, 20250622, 20250623, 20250624, 20250625, 20250626, 20250627, 20250628, 20250629, 20250630 -> gdelt_data/permanent_missing.txt
+2026-10-19 05:19:35,596 INFO    Downloading 17 file(s) to /Users/harish/DEV/Data_wizards/gdelt_data with 4 worker(s)
+2026-10-19 05:19:35,744 ERROR   MISSING 20250615 -> 404 (not published on server): https://data.gdeltproject.org/events/20250615.export.CSV.zip
+2026-10-19 05:19:35,744 ERROR   MISSING 20250617 -> 404 (not published on server): https://data.gdeltproject.org/events/20250617.export.CSV.zip
+2026-10-19 05:19:35,770 ERROR   MISSING 20250616 -> 404 (not published on server): https://data.gdeltproject.org/events/20250616.export.CSV.zip
+2026-10-19 05:19:35,775 ERROR   MISSING 20250614 -> 404 (not published on server): https://data.gdeltproject.org/events/20250614.export.CSV.zip
+2026-10-19 05:19:35,872 ERROR   MISSING 20250618 -> 404 (not published on server): https://data.gdeltproject.org/events/20250618.export.CSV.zip
+2026-10-19 05:19:35,873 ERROR   MISSING 20250619 -> 404 (not published on server): https://data.gdeltproject.org/events/20250619.export.CSV.zip
+2026-10-19 05:19:35,898 ERROR   MISSING 20250621 -> 404 (not published on server): https://data.gdeltproject.org/events/20250621.export.CSV.zip
+2026-10-19 05:19:35,902 ERROR   MISSING 20250620 -> 404 (not published on server): https://data.gdeltproject.org/events/20250620.export.CSV.zip
+2026-10-19 05:19:36,002 ERROR   MISSING 20250623 -> 404 (not published on server): https://data.gdeltproject.org/events/20250623.export.CSV.zip
+2026-10-19 05:19:36,018 ERROR   MISSING 20250624 -> 404 (not published on server): https://data.gdeltproject.org/events/20250624.export.CSV.zip
+2026-10-19 05:19:36,026 ERROR   MISSING 20250625 -> 404 (not published on server): https://data.gdeltproject.org/events/20250625.export.CSV.zip
+2026-10-19 05:19:36,040 ERROR   MISSING 20250622 -> 404 (not published on server): https://data.gdeltproject.org/events/20250622.export.CSV.zip
+2026-10-19 05:19:36,127 ERROR   MISSING 20250626 -> 404 (not published on server): https://data.gdeltproject.org/events/20250626.export.CSV.zip
+2026-10-19 05:19:36,140 ERROR   MISSING 20250627 -> 404 (not published on server): https://data.gdeltproject.org/events/20250627.export.CSV.zip
+2026-10-19 05:19:36,148 ERROR   MISSING 20250628 -> 404 (not published on server): https://data.gdeltproject.org/events/20250628.export.CSV.zip
+2026-10-19 05:19:36,166 ERROR   MISSING 20250629 -> 404 (not published on server): https://data.gdeltproject.org/events/20250629.export.CSV.zip
+2026-10-19 05:19:36,256 ERROR   MISSING 20250630 -> 404 (not published on server): https://data.gdeltproject.org/events/20250630.export.CSV.zip
+2026-10-19 05:19:36,258 INFO    ============================================================
+2026-10-19 05:19:36,258 INFO    SUMMARY: 0 downloaded, 0 skipped (already had), 17 missing on server, 0 failed
+2026-10-19 05:19:36,258 INFO    Missing (404) dates: 20250614, 20250615, 20250616, 20250617, 20250618, 20250619, 20250620, 20250621, 20250622, 20250623, 20250624, 20250625, 20250626, 20250627, 20250628, 20250629, 20250630 -> gdelt_data/permanent_missing.txt
