@@ -1,0 +1,11 @@
+Potential cleaning / validation decision
+Review fields with >90% missingness before deciding whether to exclude them.
+Investigate missing actor country codes; ActionGeo geography is more complete but has different meaning.
+Investigate missing GoldsteinScale values and any invalid numeric/geographic ranges.
+Check unexpected CAMEO root codes and actual QuadClass / IsRootEvent values.
+"Review SQLDATE vs DATEADDED discrepancies, especially 2015 and 2024 event dates."
+Use information-availability dates when aligning event features to WTI prices (prevent leakage).
+Confirm all archive dates are present; review unusually low/high daily reporting volumes.
+Duplicate GLOBALEVENTID check found zero duplicates; different IDs may refer to one incident.
+Compare event frequencies across countries against overall source/reporting volume.
+Consider robust aggregation for skewed NumMentions / NumArticles and outlier events.

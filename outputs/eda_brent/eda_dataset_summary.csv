@@ -1,0 +1,2 @@
+start_date,end_date,calendar_days,feature_columns_including_date_and_prices,reported_brent_prices,missing_brent_prices,valid_brent_returns,total_gdelt_events,price_interval_rows
+2025-01-01,2025-06-13,164,86,113,51,112,20343168,112

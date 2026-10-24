@@ -1,0 +1,16 @@
+feature,target,n,r,p_value,investigation,method,metric,abs_r
+exporter_event_share,brent_return,112,0.34650256228365506,0.0001821750309544129,5 Exporter/Importer,pearson,,0.34650256228365506
+global_goldstein_mean,brent_return,112,-0.22130033687986317,0.01903210302812622,3 Global tone,pearson,Global average Goldstein score,0.22130033687986317
+exporter_goldstein_mean,brent_return,112,-0.2183373810515981,0.020738013752780365,5 Exporter/Importer,pearson,,0.2183373810515981
+importer_goldstein_mean,brent_return,112,-0.18635502821714148,0.04914390732988076,5 Exporter/Importer,pearson,,0.18635502821714148
+global_total_events,brent_price,113,-0.15727369964479385,0.09618758876579549,1 Global trend,pearson,,0.15727369964479385
+global_tone_mean,brent_return,112,-0.1399782430972757,0.14101296662797508,3 Global tone,pearson,Global average news tone,0.1399782430972757
+importer_internal_event_share,absolute_brent_return,112,-0.13762683718630705,0.14787972795654955,7 Internal activity,pearson,,0.13762683718630705
+global_total_events,brent_return,112,-0.13220607728988942,0.16466587278163866,1 Global trend,pearson,,0.13220607728988942
+russia_goldstein_mean,brent_return,112,-0.1302021895156794,0.17121677336677568,4 Iran/Russia,pearson,,0.1302021895156794
+exporter_internal_event_share,absolute_brent_return,112,-0.10666835372152268,0.26296752923489025,7 Internal activity,pearson,,0.10666835372152268
+iran_goldstein_mean,brent_return,112,-0.1041497552728018,0.2744696139973593,4 Iran/Russia,pearson,,0.1041497552728018
+exporter_internal_event_share,brent_return,112,0.09064272909352392,0.3418738401808823,7 Internal activity,pearson,,0.09064272909352392
+global_negative_tone_share,brent_return,112,0.07080984982708803,0.45814422689888074,3 Global tone,pearson,Share of events with negative tone,0.07080984982708803
+importer_event_share,brent_return,112,-0.01679981165441271,0.860442948472724,5 Exporter/Importer,pearson,,0.01679981165441271
+importer_internal_event_share,brent_return,112,0.010184781960352898,0.9151228450109109,7 Internal activity,pearson,,0.010184781960352898

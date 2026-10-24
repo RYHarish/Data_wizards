@@ -1,0 +1,9 @@
+method,feature,target,n,r,p_value
+pearson,exporter_event_share,brent_return,112,0.34650256228365506,0.0001821750309544129
+spearman,exporter_event_share,brent_return,112,0.22666313595517137,0.0162508245855527
+pearson,importer_event_share,brent_return,112,-0.01679981165441271,0.860442948472724
+spearman,importer_event_share,brent_return,112,0.003075135818498651,0.9743291784667966
+pearson,exporter_goldstein_mean,brent_return,112,-0.2183373810515981,0.020738013752780365
+spearman,exporter_goldstein_mean,brent_return,112,-0.11231079372672294,0.23840376150077808
+pearson,importer_goldstein_mean,brent_return,112,-0.18635502821714148,0.04914390732988076
+spearman,importer_goldstein_mean,brent_return,112,-0.11617179758772679,0.22254482211180637

@@ -1,0 +1,8 @@
+DateRelationship,Count,Percentage
+event_after_added,0,0.0
+same_day,19838867,97.521
+1_to_7_days_old,225445,1.1082
+8_to_30_days_old,104968,0.516
+31_to_365_days_old,169564,0.8335
+more_than_365_days_old,4324,0.0213
+invalid_dates,0,0.0

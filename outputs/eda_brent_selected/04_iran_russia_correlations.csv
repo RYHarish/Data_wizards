@@ -1,0 +1,5 @@
+method,feature,target,n,r,p_value
+pearson,iran_goldstein_mean,brent_return,112,-0.1041497552728018,0.2744696139973593
+spearman,iran_goldstein_mean,brent_return,112,-0.06461202036423276,0.49851634907295905
+pearson,russia_goldstein_mean,brent_return,112,-0.1302021895156794,0.17121677336677568
+spearman,russia_goldstein_mean,brent_return,112,-0.10558820514572728,0.2678595783102448

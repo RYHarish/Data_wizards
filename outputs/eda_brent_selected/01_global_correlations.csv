@@ -1,0 +1,3 @@
+feature,target,n,r,p_value
+global_total_events,brent_price,113,-0.15727369964479385,0.09618758876579549
+global_total_events,brent_return,112,-0.13220607728988942,0.16466587278163866

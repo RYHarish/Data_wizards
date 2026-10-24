@@ -1,0 +1,9 @@
+method,feature,target,n,r,p_value
+pearson,exporter_internal_event_share,brent_return,112,0.09064272909352392,0.3418738401808823
+spearman,exporter_internal_event_share,brent_return,112,0.16117128506509037,0.08957210725497411
+pearson,exporter_internal_event_share,absolute_brent_return,112,-0.10666835372152268,0.26296752923489025
+spearman,exporter_internal_event_share,absolute_brent_return,112,-0.07665630232001913,0.4217805409137602
+pearson,importer_internal_event_share,brent_return,112,0.010184781960352898,0.9151228450109109
+spearman,importer_internal_event_share,brent_return,112,0.03166535688659582,0.7403134318667433
+pearson,importer_internal_event_share,absolute_brent_return,112,-0.13762683718630705,0.14787972795654955
+spearman,importer_internal_event_share,absolute_brent_return,112,-0.20347148665732737,0.03141739920921848

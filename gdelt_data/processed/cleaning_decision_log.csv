@@ -1,0 +1,12 @@
+Issue,Finding,Decision
+CAMEO data types,Event codes contain leading zeros.,"Store EventCode, EventBaseCode, and EventRootCode as strings."
+Unrecognized CAMEO codes,Codes 106 and 1213 were absent from the original lookup.,Add both to the extended CAMEO reference.
+Malformed CAMEO codes,16 records contain --- or X.,Retain records and flag invalid classifications.
+Missing Goldstein scores,94 records with EventCode 1213 have missing scores.,Impute -4.0 from parent code 121 in a separate adjusted column.
+Missing actor information,Actor country and identification fields contain substantial missing values.,Preserve missing values and create quality flags.
+Geographic codes,RB and OC were absent from the FIPS lookup.,Retain original codes and flag lookup mismatches.
+Geographic coordinates,Some records contain incomplete latitude/longitude pairs.,Flag incomplete coordinates without estimating missing values.
+Historical event dates,Some event dates are much earlier than DATEADDED.,Retain both dates and flag reporting delays greater than 30 days.
+Numerical outliers,Reporting counts and AvgTone contain statistical outliers.,Retain original values without capping or removing outliers.
+Repeated SOURCEURLs,Multiple event records can originate from the same article.,Retain repeated URLs because they do not necessarily indicate duplicates.
+Duplicate event IDs,No duplicated or missing GLOBALEVENTID values in the full dataset.,No deduplication required.

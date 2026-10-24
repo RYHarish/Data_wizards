@@ -1,0 +1,11 @@
+Metric,Value
+Total raw records,20343168
+Total cleaned records,20343168
+Original columns,58
+Cleaned columns,90
+Monthly Parquet partitions,6
+Duplicate event IDs,0
+Missing event IDs,0
+Goldstein scores imputed,94
+Remaining missing adjusted Goldstein scores,16
+Remaining unrecognized EventCodes,16

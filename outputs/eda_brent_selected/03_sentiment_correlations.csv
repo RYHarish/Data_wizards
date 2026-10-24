@@ -1,0 +1,7 @@
+metric,method,feature,target,n,r,p_value
+Global average news tone,pearson,global_tone_mean,brent_return,112,-0.1399782430972757,0.14101296662797508
+Global average news tone,spearman,global_tone_mean,brent_return,112,-0.04112139952847917,0.666840676343237
+Global average Goldstein score,pearson,global_goldstein_mean,brent_return,112,-0.22130033687986317,0.01903210302812622
+Global average Goldstein score,spearman,global_goldstein_mean,brent_return,112,-0.11911026070318106,0.21098501358449187
+Share of events with negative tone,pearson,global_negative_tone_share,brent_return,112,0.07080984982708803,0.45814422689888074
+Share of events with negative tone,spearman,global_negative_tone_share,brent_return,112,-0.04523012266375098,0.6358257198492223
